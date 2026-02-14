@@ -1,0 +1,6 @@
+
+body{background:#0b0c0e;color:white;font-family:sans-serif;padding:20px;text-align:center}
+.comparison{position:relative;width:80%;margin:0 auto;overflow:hidden;border-radius:10px}
+.comparison img{width:100%;display:block}
+.overlay{position:absolute;top:0;left:0;width:50%;overflow:hidden}
+.handle{position:absolute;top:0;left:50%;width:4px;height:100%;background:white;cursor:ew-resize}
